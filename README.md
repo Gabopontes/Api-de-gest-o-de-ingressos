@@ -1,6 +1,6 @@
 <h1>Api de gestão de ingressos</h1>
 
-Fluxograma responsavel pela a estrura de um software responsavel por venda de ingressos de shows de grande porte.
+Fluxograma representando a estrura de um software responsavel por venda de ingressos de shows de grande porte.
 
 ![Fluxo api de ingressos](https://github.com/Gabopontes/Api-de-gest-o-de-ingressos/assets/99334150/150e1366-d2ac-47dd-88c0-384688a472c8)
 
